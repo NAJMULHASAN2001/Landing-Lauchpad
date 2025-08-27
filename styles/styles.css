@@ -116,4 +116,23 @@ h2{
     line-height: 0cm;
 }
 
+/* focus-better */
+.focus-better{
+    max-width: 1140px;
+    max-height: 696px;
+    margin:137px auto;
+    
+}
+.webflow-img{
+    margin-top:20px ;
+    border-radius:50px ;
+}
+.focus-better-description{
+    color:rgba(0, 0, 0, 0.5) ;
+}
+.user-comment{
+font-weight: lighter;
+font: 60px;
+}
+
 
