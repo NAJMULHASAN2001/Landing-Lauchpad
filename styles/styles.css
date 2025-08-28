@@ -34,7 +34,7 @@ text-align: center;
 /* nav bar */
 header{
     background-image: url(../Assets/Hero-bg.png);
-    background-size: auto;
+    background-size: cover;
     width: 1900px;
     height: 698px;
 }
